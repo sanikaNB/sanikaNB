@@ -13,5 +13,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,rust,mongodb,c,cpp,java" /><br>
+    <img src="https://skillicons.dev/icons?i=java,nodejs,react,python,javascript,express,mongodb,Django" /><br>
 </div>
